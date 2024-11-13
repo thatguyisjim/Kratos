@@ -1,0 +1,44 @@
+body{
+    background-color: #27374D;
+    font-family: Arial;
+    font-size: 1.25rem;
+    color:#526D82 ;
+}
+a:link{
+    color: #9DB2BF;
+}
+a:visited{
+    color: #9DB2BF;
+}
+a:hover{
+    color: #9DB2BF;
+}
+.profilePic{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+.profileAlignment{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.centerTable{
+    margin-left: auto;
+    margin-right: auto;
+}
+.linkCells{
+    padding: 10px;
+}
+.infoAlignment{
+    margin-left: auto;
+    margin-right: auto;
+}
+.headOneAlign{
+    text-align: center;
+}
+ol{
+    list-style-type: upper-roman;
+}
+.olLevelTwo{
+    list-style-type: lower-roman;
+}
